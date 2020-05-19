@@ -1,0 +1,16 @@
+{
+  "name": "functions",
+  "version": "0.1.0",
+  "description": "Cloud Functions for BFast",
+  "scripts": {
+    "test": "echo \"no test\""
+  },
+  "engines": {
+    "node": "10"
+  },
+  "dependencies": {
+    "bfastnode": "^1.3.3"
+  },
+  "devDependencies": {},
+  "private": true
+}
